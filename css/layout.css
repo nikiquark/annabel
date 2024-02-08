@@ -2,7 +2,11 @@
     margin:0px;
     padding:0px;
 }
-
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 @font-face {
     font-family: "Doodle";
     src: url("DoodleJump.ttf");
