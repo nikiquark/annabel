@@ -958,9 +958,7 @@ class GAME
 
     restartGame()
     {
-        if (this.score > 300){
-            window.location.replace('https://youtu.be/fTqaNo4XgT8')
-        }
+        
         this.boosterTypes=[];
         this.boosterArray=[];
         this.platformArray=[];
